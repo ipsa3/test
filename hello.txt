@@ -1,4 +1,9 @@
 demo on git my change
 new edit
 editcharitha
+<<<<<<< HEAD
 edit by bharathi
+=======
+edit by bharathi merge
+
+>>>>>>> e25fd94 (merge)
