@@ -2,7 +2,7 @@ demo on git my change
 new edit
 editcharitha
 <<<<<<< HEAD
-edit by bharathi
+edit by bharathi change
 =======
 edit by bharathi merge
 
