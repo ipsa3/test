@@ -4,6 +4,6 @@ editcharitha
 <<<<<<< HEAD
 edit by bharathi change
 =======
-edit by bharati
+edit by bharathi
 
 >>>>>>> e25fd94 (merge)
