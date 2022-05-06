@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sdre
 Hello I am Adithya, I am making an edit
+=======
+sdre
+>>>>>>> f2b9514ae40dc9301323297e779cf7904415e578
