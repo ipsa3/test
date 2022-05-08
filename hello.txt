@@ -10,4 +10,8 @@ edit by bharathi
 <<<<<<< HEAD
 edit by sahana
 >>>>>>> 4d517c5 (git merge)
+<<<<<<< HEAD
 challenge 5 new edit by bhanushree
+=======
+new edit by bhanu
+>>>>>>> a7205ef (merge)
