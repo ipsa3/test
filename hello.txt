@@ -1,6 +1,10 @@
 edited by jagadeshwari
+<<<<<<< HEAD
 demo1
 demo(merge)
+=======
+****demo1
+>>>>>>> 03c8e35 (merge1)
 --------------
 demo on git my change
 new edit
