@@ -24,3 +24,11 @@ challenge 5 new edit by bhanushree
 new edit by bhanu
 >>>>>>> a7205ef (merge)
 edited by Priya
+
+new merge conflict challenge by Himalay Chava
+>>>>>>> 1cecb5d (Merge conflict Challenge by Himalay Chava)
+Merge conflict solved by using mergetool
+=======
+hi
+
+edit by poornima
