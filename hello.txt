@@ -25,6 +25,6 @@ new edit by bhanu
 >>>>>>> a7205ef (merge)
 edited by Priya
 
-edit by poornima -remote changes
+edit by poornima changes
 
 hi
