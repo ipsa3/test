@@ -26,12 +26,17 @@ new edit by bhanu
 edited by Priya
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 dit by poornima
 
-hi
 =======
 new edit by poornima
 
 new merge conflict challenge by Himalay Chava
 >>>>>>> 1cecb5d (Merge conflict Challenge by Himalay Chava)
 Merge conflict solved by using mergetool
+=======
+hi
+
+edit by poornima changes
+>>>>>>> 815084a9d309693730a88f3fd9f056b5b2fe583d
