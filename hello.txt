@@ -1,5 +1,6 @@
 edited by jagadeshwari
 demo1
+demo(merge)
 --------------
 demo on git my change
 new edit
