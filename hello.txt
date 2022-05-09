@@ -25,6 +25,13 @@ new edit by bhanu
 >>>>>>> a7205ef (merge)
 edited by Priya
 
+<<<<<<< HEAD
 dit by poornima
 
 hi
+=======
+new edit by poornima
+
+new merge conflict challenge by Himalay Chava
+>>>>>>> 1cecb5d (Merge conflict Challenge by Himalay Chava)
+Merge conflict solved by using mergetool
