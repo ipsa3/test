@@ -1,2 +1,2 @@
 
-welcome merge conflict
+welcome merge conflict example
